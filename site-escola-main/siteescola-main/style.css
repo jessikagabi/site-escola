@@ -1,5 +1,5 @@
 header { 
-    background-color:#8b96d8;
+    background-color:#000000;
     color: white;
 }
 
@@ -10,7 +10,7 @@ header {
 }
 
 .cabecalho{
-    background-color: #383D58;
+    background-color: #000000;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -29,8 +29,8 @@ header {
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(#383d58,#a389ff);
-    color: whitesmoke;
+    background-image: linear-gradient(#000000,#3f3b3b);
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -69,7 +69,7 @@ display: grid;
 grid-template-columns: 20% 20% 20% 20%;
 }
 footer{
-    background-color: rgb(144, 132, 250);
+    background-color: rgb(0, 0, 0);
     padding: 15px 0;
     text-align: center;
 }
